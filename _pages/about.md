@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD in Pharmaceutical Nanotechnology · Visiting Researcher, <a href='https://www.iciq.org/'>ICIQ</a>, Tarragona
+subtitle: PhD in Pharmaceutical Nanotechnology · Visiting Researcher, <a href='https://www.iciq.org/'>ICIQ</a>, Spain
 
 profile:
   align: right
