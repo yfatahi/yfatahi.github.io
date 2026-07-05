@@ -12,6 +12,7 @@ profile:
     <p>Institute of Chemical Research of Catalonia (ICIQ)</p>
     <p>Tarragona, Spain</p>
     <p>youseffatahi@gmail.com</p>
+    <p>+34 665 85 57 09</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,10 +28,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a final-year PhD candidate in Pharmaceutical Nanotechnology at Tehran University of Medical Sciences (TUMS), currently a visiting researcher at the Institute of Chemical Research of Catalonia ([ICIQ](https://www.iciq.org/)) in Tarragona, Spain.
+Yousef Fatahi is a researcher in Pharmaceutical Nanotechnology with a strong foundation in biomaterials and advanced therapeutic delivery systems. Recognized as a distinguished researcher during his tenure at the Faculty of Pharmacy, Tehran University of Medical Sciences, his work translates the fundamental biological interactions of nanomaterials into highly applicable clinical solutions.
 
-My research sits at the interface of materials chemistry, microfabrication, and bioelectronics. I work on microneedle technologies for transdermal drug delivery and interstitial-fluid sampling, including hydrogel-forming and swellable microneedles built from MeHA, chitosan, and GelMA. A central thread of my work is continuous biosensing with wearable microneedle electrochemical aptamer biosensors for real-time monitoring of antibiotics and anticancer agents in dermal interstitial fluid, using surface engineering and calibration-free ratiometric algorithms to counter in vivo drift and biofouling.
+Driven by the evolving landscape of personalized medicine, his recent research trajectory has strategically expanded into the field of wearable biosensors. His current doctoral research, conducted jointly with the Institute of Chemical Research of Catalonia ([ICIQ](https://www.iciq.org/)) in Spain, focuses on engineering minimally invasive, microneedle-based electrochemical aptasensors for the continuous monitoring of drugs.
 
-Alongside sensing, I develop stimuli-responsive nanocarriers, localized hydrogel systems, and exosome-integrated microneedles for responsive drug delivery. The longer-term goal that ties these threads together is closed-loop theranostics: platforms that sense a biomarker or drug level and actuate on-demand release.
+By combining his deep background in drug delivery with cutting-edge biosensing technologies, Yousef aims to develop autonomous, AI-driven closed-loop theranostic systems capable of simultaneously diagnosing physiological conditions and adjusting therapeutic interventions in real time.
 
-You can find my full publication list here, and reach me by email for collaborations, data, or questions about any of the work.
+You can find his full publication list here, and reach him by email for collaborations, data, or questions about the work.

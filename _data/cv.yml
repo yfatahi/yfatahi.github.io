@@ -5,13 +5,22 @@ cv:
   location: Tarragona, Spain
   image: ""
   summary: >
-    Researcher in pharmaceutical nanotechnology working on microneedle drug delivery,
-    wearable interstitial-fluid biosensing, and stimuli-responsive nanocarriers, with a
-    long-term focus on closed-loop sense-and-act theranostic platforms.
+    Researcher in Pharmaceutical Nanotechnology with a strong foundation in biomaterials
+    and advanced therapeutic delivery systems. Doctoral research at ICIQ engineers
+    minimally invasive, microneedle-based electrochemical aptasensors for continuous drug
+    monitoring, with the long-term goal of autonomous, AI-driven closed-loop theranostic
+    systems that diagnose and adjust therapy in real time.
+  phone: +34 665 85 57 09
 
   social_networks:
     - network: GitHub
       username: yfatahi
+    - network: LinkedIn
+      username: youseffatahi
+    - network: X
+      username: yousef_fatahi
+    - network: ResearchGate
+      username: Yousef-Fatahi
 
   sections:
     Education:
@@ -50,3 +59,10 @@ cv:
       - label: ORCID
         summary: 0000-0003-0374-2141
         url: https://orcid.org/0000-0003-0374-2141
+      - label: Scopus
+        summary: Author ID 56560134100
+        url: https://www.scopus.com/authid/detail.uri?authorId=56560134100
+      - label: ResearchGate
+        url: https://www.researchgate.net/profile/Yousef-Fatahi
+      - label: LinkedIn
+        url: https://www.linkedin.com/in/youseffatahi/
